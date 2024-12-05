@@ -1,5 +1,5 @@
 <?php
-include "config.php";
+// include "config.php";
 class Database{
     private $host = DB_HOST;
     private $user = DB_USER;
